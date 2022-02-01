@@ -1,5 +1,5 @@
 
-
+import appConfig from './config.json'
 
 function GlobalStyle () {
     return (
